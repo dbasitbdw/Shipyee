@@ -168,11 +168,11 @@ A: Versions **1.0.0** to **1.0.6** were internal **Beta Test** stages. Version *
   <h3>🚀 Developed & Managed By</h3>
   
   <a href="https://dbasitbdw.me">
-    <img src="https://img.shields.io/badge/Portfolio-dbasitbdw.me-101010?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    <img src="public/LOGO%20dbasitbdwdevs.jpg" height="50" alt="Portfolio dbasitbdw">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://pixxdev.vercel.app">
-    <img src="https://img.shields.io/badge/Services-Pixxdev-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Pixxdev Services">
+    <img src="public/LOGO%20PIXXDEV%20FIXED%20-%20gray.png" height="50" alt="Pixxdev Services">
   </a>
   
   <br><br>
