@@ -2,7 +2,7 @@
   <img src="public/logo_store_icon.png" alt="Shipyee Logo" width="120" height="120">
   <h1>Shipyee</h1>
 
-  <a href="https://github.com/dbasitbdw/Shipyee/releases/download/V1.0.8/Shipyee_V.1.0.8.apk">
+  <a href="https://github.com/dbasitbdw/Shipyee/releases/download/V1.0.9/app-release.apk">
     <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android" alt="Download APK" />
   </a>
 
