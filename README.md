@@ -69,6 +69,12 @@ Keamanan pengguna adalah prioritas utama kami. Aplikasi Shipyee telah melalui pr
 
 Ikuti langkah mudah berikut untuk menginstal aplikasi Shipyee di perangkat Android Anda:
 
+**Pilih file APK sesuai tipe HP Anda:**
+
+- **app-arm64-v8a-release.apk (8a - stabil/utama)**: Untuk HP Android baru/modern (64-bit). Ini pilihan pertama yang direkomendasikan.
+- **app-armeabi-v7a-release.apk (7a - stabil/alternatif)**: Untuk HP Android lama atau entry-level (32-bit). Pakai ini jika versi 8a tidak bisa diinstal.
+- **app-universal-release.apk (gabungan)**: Untuk semua tipe HP (lama maupun baru). Cocok sebagai opsi cadangan karena kompatibilitas paling luas.
+
 1.  **Download APK**: Unduh file aplikasi Shipyee terbaru melalui link yang tersedia di repositori ini.
 2.  **Izin Instalasi**: Jika muncul peringatan, masuk ke **Pengaturan > Keamanan** dan aktifkan pilihan **"Izinkan instalasi dari sumber tidak dikenal"** (Unknown Sources).
 3.  **Install**: Buka file APK yang telah diunduh dan tekan tombol **Install**.
@@ -164,6 +170,12 @@ User security is our top priority. Shipyee has undergone rigorous security scann
 ## 📥 Installation Guide (APK)
 
 Follow these easy steps to install the Shipyee application on your Android device:
+
+**Choose the APK file based on your phone type:**
+
+- **app-arm64-v8a-release.apk (8a - stable/primary)**: For newer/modern Android phones (64-bit). This is the recommended first choice.
+- **app-armeabi-v7a-release.apk (7a - stable/alternative)**: For older or entry-level Android phones (32-bit). Use this if the 8a build cannot be installed.
+- **app-universal-release.apk (combined)**: Works across all phone types (old and new). Best used as a fallback for maximum compatibility.
 
 1.  **Download APK**: Download the latest Shipyee application file via the link available in this repository.
 2.  **Installation Permission**: If a warning appears, go to **Settings > Security** and enable the **"Allow installation from unknown sources"** option.
